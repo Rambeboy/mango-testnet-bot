@@ -1,4 +1,4 @@
-# MANGO TESTNET BOT
+## MANGO TESTNET BOT
 
 **Register** : [HERE](https://task.testnet.mangonetwork.io/?invite=NBJutF)
 
