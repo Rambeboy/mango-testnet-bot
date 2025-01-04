@@ -1,0 +1,37 @@
+{
+  "name": "mango-wallet-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "rm -rf app && javascript-obfuscator --config build-config.json",
+    "dev": "node index.js",
+    "start": "node scripts/start.js",
+    "setup": "node scripts/setup.js"
+  },
+  "keywords": [
+    "mango",
+    "mango-testnet",
+    "mango-swap",
+    "mango-networks",
+    "rambeboy"
+  ],
+  "author": "Rambeboy",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "@types/node": "^22.10.4",
+    "eslint": "^9.17.0",
+    "globals": "^15.14.0",
+    "prettier": "^3.4.2"
+  },
+  "dependencies": {
+    "@mgonetwork/bcs": "^1.0.0",
+    "@mgonetwork/mango.js": "^2.0.3",
+    "https-proxy-agent": "^7.0.5",
+    "node-fetch": "^3.3.2",
+    "twisters": "^1.1.0",
+    "winston": "^3.17.0"
+  }
+}
