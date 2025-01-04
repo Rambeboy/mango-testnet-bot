@@ -14,7 +14,7 @@
 
 **LFG**
 
-## Prerequisite
+## PREREQUISITE
 
 - Git
 - Node JS (v22)
