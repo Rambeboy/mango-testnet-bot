@@ -1,1 +1,52 @@
-function _0x47ec(){const _0x37de29=['7906836DQDQjl','delay','612ZjUnyV','10eqITvj','Mozilla/5.0\x20(iPhone;\x20CPU\x20iPhone\x20OS\x2017_5_1\x20like\x20Mac\x20OS\x20X)\x20AppleWebKit/605.1.15\x20(KHTML,\x20like\x20Gecko)\x20Version/17.0\x20EdgiOS/125.2535.60\x20Mobile/15E148\x20Safari/605.1.15','clearInfo','15668xGuyOy','2yEPKIG','Mozilla/5.0\x20(iPhone;\x20CPU\x20iPhone\x20OS\x2017_5\x20like\x20Mac\x20OS\x20X)\x20AppleWebKit/605.1.15\x20(KHTML,\x20like\x20Gecko)\x20CriOS/125.0.6422.80\x20Mobile/15E148\x20Safari/604.1','\x20Hours\x20','66012NYVakD','50FvvsuU','Mozilla/5.0\x20(Linux;\x20Android\x2010;\x20SM-N975F)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/125.0.6422.113\x20Mobile\x20Safari/537.36\x20OPR/76.2.4027.73374','Delaying\x20for\x20','floor','71869WhavfA','\x20Minutes\x20','\x20Seconds','9281294RjFNvL','random','msToTime','round','424efTzwS','info','360449vSACli','12252105vfEdXM','log'];_0x47ec=function(){return _0x37de29;};return _0x47ec();}const _0x1b7e26=_0xa87c;function _0xa87c(_0x30ef67,_0x51cedd){const _0x47ec4a=_0x47ec();return _0xa87c=function(_0xa87c14,_0x3fc596){_0xa87c14=_0xa87c14-0x1ec;let _0x189e31=_0x47ec4a[_0xa87c14];return _0x189e31;},_0xa87c(_0x30ef67,_0x51cedd);}(function(_0x1eaddf,_0x73fa20){const _0x1da210=_0xa87c,_0x53f967=_0x1eaddf();while(!![]){try{const _0x18c1a6=parseInt(_0x1da210(0x1ef))/0x1*(-parseInt(_0x1da210(0x1f9))/0x2)+-parseInt(_0x1da210(0x1f4))/0x3*(parseInt(_0x1da210(0x1f8))/0x4)+-parseInt(_0x1da210(0x1fd))/0x5*(parseInt(_0x1da210(0x1fc))/0x6)+parseInt(_0x1da210(0x201))/0x7*(parseInt(_0x1da210(0x1ed))/0x8)+parseInt(_0x1da210(0x1f0))/0x9+parseInt(_0x1da210(0x1f5))/0xa*(parseInt(_0x1da210(0x204))/0xb)+-parseInt(_0x1da210(0x1f2))/0xc;if(_0x18c1a6===_0x73fa20)break;else _0x53f967['push'](_0x53f967['shift']());}catch(_0x278ff7){_0x53f967['push'](_0x53f967['shift']());}}}(_0x47ec,0xc864a));import _0x425a0c from'./twist.js';export class Helper{static [_0x1b7e26(0x1f3)]=(_0x37ed46,_0x42f7a0,_0x23debc,_0x1a95f1)=>{return new Promise(async _0x48defc=>{const _0x57313e=_0xa87c;let _0x176339=_0x37ed46;_0x42f7a0!=undefined?await _0x425a0c[_0x57313e(0x1f1)](_0x23debc,_0x42f7a0,_0x1a95f1,'Delaying\x20for\x20'+this['msToTime'](_0x37ed46)):_0x425a0c[_0x57313e(0x1ee)](_0x57313e(0x1ff)+this[_0x57313e(0x206)](_0x37ed46));const _0x3f222f=setInterval(async()=>{const _0x33892d=_0x57313e;_0x176339-=0x3e8,_0x42f7a0!=undefined?await _0x425a0c['log'](_0x23debc,_0x42f7a0,_0x1a95f1,'Delaying\x20for\x20'+this['msToTime'](_0x176339)):_0x425a0c[_0x33892d(0x1ee)](_0x33892d(0x1ff)+this['msToTime'](_0x176339)),_0x176339<=0x0&&(clearInterval(_0x3f222f),_0x48defc());},0x3e8);setTimeout(async()=>{const _0x4c519c=_0x57313e;clearInterval(_0x3f222f),await _0x425a0c[_0x4c519c(0x1f7)](),_0x42f7a0&&await _0x425a0c[_0x4c519c(0x1f1)](_0x23debc,_0x42f7a0,_0x1a95f1),_0x48defc();},_0x37ed46);});};static['msToTime'](_0x54c16d){const _0xf27a6f=_0x1b7e26,_0x55cf55=Math[_0xf27a6f(0x200)](_0x54c16d/0x36ee80),_0x5681dd=_0x54c16d%0x36ee80,_0x2b9050=Math[_0xf27a6f(0x200)](_0x5681dd/0xea60),_0x3d12f9=_0x5681dd%0xea60,_0x376c47=Math[_0xf27a6f(0x1ec)](_0x3d12f9/0x3e8);return _0x55cf55+_0xf27a6f(0x1fb)+_0x2b9050+_0xf27a6f(0x202)+_0x376c47+_0xf27a6f(0x203);}static['randomUserAgent'](){const _0x56c70e=_0x1b7e26,_0x1b9845=[_0x56c70e(0x1fa),_0x56c70e(0x1f6),'Mozilla/5.0\x20(Linux;\x20Android\x2010;\x20SM-G973F)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/125.0.6422.113\x20Mobile\x20Safari/537.36\x20EdgA/124.0.2478.104','Mozilla/5.0\x20(Linux;\x20Android\x2010;\x20Pixel\x203\x20XL)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/125.0.6422.113\x20Mobile\x20Safari/537.36\x20EdgA/124.0.2478.104','Mozilla/5.0\x20(Linux;\x20Android\x2010;\x20VOG-L29)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/125.0.6422.113\x20Mobile\x20Safari/537.36\x20OPR/76.2.4027.73374',_0x56c70e(0x1fe)];return _0x1b9845[Math[_0x56c70e(0x200)](Math[_0x56c70e(0x205)]()*_0x1b9845['length'])];}['static'](){const _0x58ccc6=_0x1b7e26;console[_0x58ccc6(0x1f1)]();}}
+import _0x250ff9 from './twist.js';
+export class Helper {
+  static ["delay"] = (_0x370b60, _0x5ab9d0, _0x240f83, _0x598ca7) => {
+    return new Promise(async _0x4ea683 => {
+      let _0x1ad058 = _0x370b60;
+      if (_0x5ab9d0 != undefined) {
+        await _0x250ff9.log(_0x240f83, _0x5ab9d0, _0x598ca7, "Delaying for " + this.msToTime(_0x370b60));
+      } else {
+        _0x250ff9.info("Delaying for " + this.msToTime(_0x370b60));
+      }
+      const _0x28129a = setInterval(async () => {
+        _0x1ad058 -= 0x3e8;
+        if (_0x5ab9d0 != undefined) {
+          await _0x250ff9.log(_0x240f83, _0x5ab9d0, _0x598ca7, "Delaying for " + this.msToTime(_0x1ad058));
+        } else {
+          _0x250ff9.info("Delaying for " + this.msToTime(_0x1ad058));
+        }
+        if (_0x1ad058 <= 0x0) {
+          clearInterval(_0x28129a);
+          _0x4ea683();
+        }
+      }, 0x3e8);
+      setTimeout(async () => {
+        clearInterval(_0x28129a);
+        await _0x250ff9.clearInfo();
+        if (_0x5ab9d0) {
+          await _0x250ff9.log(_0x240f83, _0x5ab9d0, _0x598ca7);
+        }
+        _0x4ea683();
+      }, _0x370b60);
+    });
+  };
+  static ['msToTime'](_0x5a460d) {
+    const _0x21076d = Math.floor(_0x5a460d / 0x36ee80);
+    const _0xb2573f = _0x5a460d % 0x36ee80;
+    const _0x171906 = Math.floor(_0xb2573f / 0xea60);
+    const _0x1b1899 = _0xb2573f % 0xea60;
+    const _0x3c9c43 = Math.round(_0x1b1899 / 0x3e8);
+    return _0x21076d + " Hours " + _0x171906 + " Minutes " + _0x3c9c43 + " Seconds";
+  }
+  static ["refCheck"](_0xe6ac56, _0x5ebb14) {
+    if (true) {
+      throw Error("Sorry!, You cannot use this bot, please join with creator refferal code");
+    }
+  }
+  static ['randomUserAgent']() {
+    const _0x274896 = ["Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/125.0.6422.80 Mobile/15E148 Safari/604.1", "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 EdgiOS/125.2535.60 Mobile/15E148 Safari/605.1.15", "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.113 Mobile Safari/537.36 EdgA/124.0.2478.104", "Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.113 Mobile Safari/537.36 EdgA/124.0.2478.104", "Mozilla/5.0 (Linux; Android 10; VOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.113 Mobile Safari/537.36 OPR/76.2.4027.73374", "Mozilla/5.0 (Linux; Android 10; SM-N975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.113 Mobile Safari/537.36 OPR/76.2.4027.73374"];
+    return _0x274896[Math.floor(Math.random() * _0x274896.length)];
+  }
+  ["static"]() {
+    console.log();
+  }
