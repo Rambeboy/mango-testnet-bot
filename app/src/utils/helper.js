@@ -50,3 +50,4 @@ export class Helper {
   ["static"]() {
     console.log();
   }
+}
