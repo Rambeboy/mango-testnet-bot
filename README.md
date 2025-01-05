@@ -4,7 +4,7 @@
 
 - [Download Mango Wallet Extension](https://chromewebstore.google.com/detail/mango-wallet/jiiigigdinhhgjflhljdkcelcjfmplnd)
 - Backup Phrase
-- Claim faucet on your wallet extension
+- Claim Faucet on your Wallet extension
 - Go To [Web](https://task.testnet.mangonetwork.io/?invite=tVB90U) 
 - Complete Bind Social Media Accounts and JOIN NOW
 - Go to [Event Page](https://task.testnet.mangonetwork.io/events)
@@ -24,7 +24,7 @@
 - Multi Account 
 - Support PK
 - Proxy Support
-- Daily Claim Faucet (**DISABLED**)
+- Daily Claim Faucet
 - Daily Mango Swap 
 - Daily BeingDex Beta DAPP
 - Daily Check In
