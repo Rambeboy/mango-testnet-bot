@@ -23,7 +23,7 @@
  ## BOT FEATURE
 
 - Multi Account 
-- Support PK
+- Only Support Seed Pharse
 - Proxy Support
 - Daily Claim Faucet
 - Daily Mango Swap 
