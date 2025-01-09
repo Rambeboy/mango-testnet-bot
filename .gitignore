@@ -2,6 +2,7 @@ package-lock.json
 node_modules
 accounts.js
 proxy_list.js
+config.js
 /src
 build-config.json
 eslint.config.mjs
