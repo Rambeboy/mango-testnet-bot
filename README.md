@@ -29,7 +29,7 @@
 - Daily Mango Swap 
 - Daily BeingDex Beta DAPP
 - Daily Check In
-- Daily Bridge (**Soon**)
+- Daily Bridge (USDT)
 
 ## SETUP & CONFIGURE BOT
 
