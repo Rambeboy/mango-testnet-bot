@@ -18,6 +18,7 @@
 
 - Git
 - Node JS (v22)
+- Funded Mango Wallet With ETH SEPOLIA and TESTNET BNB
 
  ## BOT FEATURE
 
@@ -47,10 +48,14 @@
    nano accounts/accounts.js
    ```
 4. Configure the bot config
+   ```
+   nano config/config.js
+   ```
+6. Configure the proxy
     ```
    nano config/proxy_list.js
     ```
-5. To run Auto TX
+7. To run Auto TX
    ```
    npm run start
    ```
@@ -73,7 +78,7 @@
 5. Navigate to `mango-testnet-bot` directory. 
 6. Navigate to `accounts` directory.
 7. Now open `acccounts.js` and setup your accounts. 
-8. Now Back to `mango-testnet-bot` directory and Navigate to `config` directory and adjust the `proxy_list.js` as needed.
+8. Now Back to `mango-testnet-bot` directory and Navigate to `config` directory and adjust the `config.js` and `proxy_list.js` as needed.
 9.  Back to `mango-testnet-bot` directory.
 10. To start the app open your `Command Prompt` or `Power Shell`
 11. To run auto Tx Bot
@@ -105,7 +110,20 @@ To update bot follow this step :
 
 
 ## IMPORTANT NOTE (READ IT THIS IS NOT DECORATION)
-DWYOR & Always use a new wallet when running the bot, I am not responsible for any loss of assets.
+
+How to get BRIDGE RAW DATA ? 
+
+- Do manual Bridge from ETH (USDT) to MANGO(USDT) WITH SMALL AMOUNT , EX : 0.0001 USDT
+- Approve Token Spend
+- Approve Bridge Tx
+- Go to explorer and search for your tx hash showed on your wallet history
+
+- [**ETH SEPOLIA EXPLORER**](https://sepolia.etherscan.io/)
+- [**BSC TESTNET EXPLORER**](https://testnet.bscscan.com/)
+
+And copy the Input Data as HEX. Or you can just copy paste from wallet confirmation approval on input / data section.
+
+Dwyor & Always use a new wallet when running the bot, I am not responsible for any loss of assets.
 
 ## LICENSE
 
