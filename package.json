@@ -9,6 +9,7 @@
     "start": "node scripts/start.js",
     "setup": "node scripts/setup.js"
   },
+  "bin": "app/index.js",
   "keywords": [
     "mango",
     "mango-testnet",
@@ -17,7 +18,7 @@
     "rambeboy"
   ],
   "author": "Rambeboy",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "@eslint/js": "^9.17.0",
@@ -29,6 +30,8 @@
   "dependencies": {
     "@mgonetwork/bcs": "^1.0.0",
     "@mgonetwork/mango.js": "^2.0.3",
+    "bip39": "^3.1.0",
+    "ethers": "^6.13.5",
     "https-proxy-agent": "^7.0.5",
     "node-fetch": "^3.3.2",
     "twisters": "^1.1.0",
