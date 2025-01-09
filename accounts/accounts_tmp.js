@@ -2,9 +2,9 @@
  * Accounts list file
  * write your accounts like this
  * export const accountLists = [
- *     "MANGOPRIVKEY1",
- *     "MANGOPRIVKEY2",
- *     "MANGOPRIVKEY3",
+ *     "SEED PHARSE 1 : xxxx xxx xxxxx xx",
+ *     "SEED PHARSE 2 : xxxx xxx xxxxx xx",
+ *     "SEED PHARSE 3 : xxxx xxx xxxxx xx",
  * ];
  *
  */
