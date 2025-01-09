@@ -111,15 +111,15 @@ To update bot follow this step :
 
 ## IMPORTANT NOTE (READ IT THIS IS NOT DECORATION)
 
-How to get BRIDGE RAW DATA ? 
+**HOW TO GET BRIDGE RAW DATA ?**
 
-- Do manual Bridge from ETH (USDT) to MANGO(USDT) WITH SMALL AMOUNT , EX : 0.0001 USDT
+- Do Manual Bridge from ETH (USDT) to MANGO (USDT) WITH SMALL AMOUNT , EX : 0.0001 USDT
 - Approve Token Spend
 - Approve Bridge Tx
 - Go to explorer and search for your tx hash showed on your wallet history
 
-- [**ETH SEPOLIA EXPLORER**](https://sepolia.etherscan.io/)
-- [**BSC TESTNET EXPLORER**](https://testnet.bscscan.com/)
+1. [**ETH SEPOLIA EXPLORER**](https://sepolia.etherscan.io/)
+2. [**BSC TESTNET EXPLORER**](https://testnet.bscscan.com/)
 
 And copy the Input Data as HEX. Or you can just copy paste from wallet confirmation approval on input / data section.
 
