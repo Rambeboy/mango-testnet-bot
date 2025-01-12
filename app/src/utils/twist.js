@@ -22,7 +22,7 @@ class Twist {
     const _0x1ee7bf = _0x2d3f72.integral ?? '-';
     const _0xb6f9b5 = _0x1d14b7.evmWallet ?? undefined;
     this.twisters.put(_0x1b0515, {
-      'text': "\n================== Account " + (_0x1182a1 + 0x1) + " ==================\nAddress         : - " + _0x46406d + " (MANGO) " + (_0xb6f9b5 ? "\n               - " + _0x1d14b7.evmAddress + " (EVM)" : '') + "\n\nBalance         : \nMANGO NETWORK : " + _0x395a12.map(_0x2cb85e => {
+      'text': "\n================== Account " + (_0x1182a1 + 0x1) + " ==================\nAddress         : - " + _0x46406d + " (MANGO) " + (_0xb6f9b5 ? "\n               - " + _0x1d14b7.evmAddress + " (EVM)" : '') + "\n\nBalance         : \nMANGO NETWORK   : " + _0x395a12.map(_0x2cb85e => {
         return "\n- " + _0x2cb85e.totalBalance + " " + _0x2cb85e.coinType.split('::').pop();
       }) + "\nSEPOLIA NETWORK : " + _0xab6f1f.map(_0x1b95b4 => {
         return "\n- " + _0x1b95b4.BALANCE + " " + _0x1b95b4.SYMBOL;
