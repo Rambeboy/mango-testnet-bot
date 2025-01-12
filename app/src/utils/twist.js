@@ -1,1 +1,47 @@
-function _0xc0ef(){const _0xa20054=['\x0a==================\x20Account\x20','32380BLKvbA','indexOf','453890ulDkTL','\x20(MANGO)\x20','twisters','SYMBOL','138mLYohM','\x20==================\x0aAddress\x20\x20\x20\x20\x20\x20:\x20-\x20','evmAddress','\x20-\x20','address','\x20(EVM)','\x0aTBNB\x20NETWORK\x20:\x20','2209942fdVoLV','info','\x0a==============================================\x0aInfo\x20:\x20','clear','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0aStatus\x20:\x20','654lCXKRE','\x0a-\x20','balance','24292xeiULR','bscBalance','MgoUser','99qjapzf','evmBalance','\x0aETH\x20SEPOLIA\x20NETWORK\x20:\x20','coinType','112288czVvBL','\x0aDelay\x20\x20:\x20','evmWallet','353607HfZAoU','clearInfo','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20-\x20','184060NfhJRv','map','\x0a==============================================','remove','Account\x20','totalBalance','234qfkTif'];_0xc0ef=function(){return _0xa20054;};return _0xc0ef();}const _0x452b47=_0xf43d;(function(_0x11a87a,_0x2311f5){const _0x2d6794=_0xf43d,_0x571622=_0x11a87a();while(!![]){try{const _0x518e36=parseInt(_0x2d6794(0x166))/0x1+parseInt(_0x2d6794(0x169))/0x2+-parseInt(_0x2d6794(0x177))/0x3*(parseInt(_0x2d6794(0x15c))/0x4)+-parseInt(_0x2d6794(0x171))/0x5*(-parseInt(_0x2d6794(0x183))/0x6)+parseInt(_0x2d6794(0x17e))/0x7+parseInt(_0x2d6794(0x163))/0x8*(-parseInt(_0x2d6794(0x16f))/0x9)+parseInt(_0x2d6794(0x173))/0xa*(-parseInt(_0x2d6794(0x15f))/0xb);if(_0x518e36===_0x2311f5)break;else _0x571622['push'](_0x571622['shift']());}catch(_0x1247cb){_0x571622['push'](_0x571622['shift']());}}}(_0xc0ef,0x652e0));function _0xf43d(_0x387611,_0x422a51){const _0xc0ef17=_0xc0ef();return _0xf43d=function(_0xf43dde,_0x10d6e3){_0xf43dde=_0xf43dde-0x15c;let _0x13f2ee=_0xc0ef17[_0xf43dde];return _0x13f2ee;},_0xf43d(_0x387611,_0x422a51);}import'../service/core-service.js';import{Twisters}from'twisters';import _0x3c0843 from'./logger.js';import{accountList}from'../../accounts/accounts.js';class Twist{['twisters'];constructor(){this['twisters']=new Twisters();}['log'](_0x55a7ef='',_0x1b0515='',_0x1d14b7,_0x2512c7){const _0x59dda5=_0xf43d,_0x1182a1=accountList[_0x59dda5(0x172)](_0x1b0515);_0x2512c7==undefined&&(_0x3c0843[_0x59dda5(0x17f)](_0x59dda5(0x16d)+(_0x1182a1+0x1)+_0x59dda5(0x17a)+_0x55a7ef),_0x2512c7='-');const _0x46406d=_0x1d14b7[_0x59dda5(0x17b)]??'-',_0x395a12=_0x1d14b7[_0x59dda5(0x185)]??[],_0xab6f1f=_0x1d14b7[_0x59dda5(0x160)]??[],_0x13074a=_0x1d14b7[_0x59dda5(0x15d)]??[],_0x120429=_0x1d14b7['user']??{},_0x2d3f72=_0x120429[_0x59dda5(0x15e)]??{},_0x1ee7bf=_0x2d3f72['integral']??'-',_0xb6f9b5=_0x1d14b7[_0x59dda5(0x165)]??undefined;this['twisters']['put'](_0x1b0515,{'text':_0x59dda5(0x170)+(_0x1182a1+0x1)+_0x59dda5(0x178)+_0x46406d+_0x59dda5(0x174)+(_0xb6f9b5?_0x59dda5(0x168)+_0x1d14b7[_0x59dda5(0x179)]+_0x59dda5(0x17c):'')+'\x0a\x0aBalance\x20\x20\x20\x20\x20\x20:\x20\x0aMANGO\x20NETWORK\x20:\x20'+_0x395a12[_0x59dda5(0x16a)](_0x2cb85e=>{const _0x5984cf=_0x59dda5;return _0x5984cf(0x184)+_0x2cb85e[_0x5984cf(0x16e)]+'\x20'+_0x2cb85e[_0x5984cf(0x162)]['split']('::')['pop']();})+_0x59dda5(0x161)+_0xab6f1f['map'](_0x1b95b4=>{const _0x5d2159=_0x59dda5;return _0x5d2159(0x184)+_0x1b95b4['BALANCE']+'\x20'+_0x1b95b4[_0x5d2159(0x176)];})+_0x59dda5(0x17d)+_0x13074a[_0x59dda5(0x16a)](_0x68f773=>{const _0x14d339=_0x59dda5;return _0x14d339(0x184)+_0x68f773['BALANCE']+'\x20'+_0x68f773[_0x14d339(0x176)];})+'\x0a\x0aScore\x20\x20\x20\x20\x20\x20\x20\x20:\x20'+_0x1ee7bf+_0x59dda5(0x182)+_0x55a7ef+_0x59dda5(0x164)+_0x2512c7+_0x59dda5(0x16b)});}['info'](_0x3eef40=''){const _0x1d10c3=_0xf43d;this[_0x1d10c3(0x175)]['put']('2',{'text':_0x1d10c3(0x180)+_0x3eef40+_0x1d10c3(0x16b)});return;}[_0x452b47(0x167)](){const _0x4e6111=_0x452b47;this[_0x4e6111(0x175)][_0x4e6111(0x16c)]('2');}[_0x452b47(0x181)](_0x2d4807){const _0x2afd4f=_0x452b47;this[_0x2afd4f(0x175)][_0x2afd4f(0x16c)](_0x2d4807);}}export default new Twist();
+import '../service/core-service.js';
+import { Twisters } from 'twisters';
+import _0x3c0843 from './logger.js';
+import { accountList } from '../../accounts/accounts.js';
+class Twist {
+  ['twisters'];
+  constructor() {
+    this.twisters = new Twisters();
+  }
+  ['log'](_0x55a7ef = '', _0x1b0515 = '', _0x1d14b7, _0x2512c7) {
+    const _0x1182a1 = accountList.indexOf(_0x1b0515);
+    if (_0x2512c7 == undefined) {
+      _0x3c0843.info("Account " + (_0x1182a1 + 0x1) + " - " + _0x55a7ef);
+      _0x2512c7 = '-';
+    }
+    const _0x46406d = _0x1d14b7.address ?? '-';
+    const _0x395a12 = _0x1d14b7.balance ?? [];
+    const _0xab6f1f = _0x1d14b7.evmBalance ?? [];
+    const _0x13074a = _0x1d14b7.bscBalance ?? [];
+    const _0x120429 = _0x1d14b7.user ?? {};
+    const _0x2d3f72 = _0x120429.MgoUser ?? {};
+    const _0x1ee7bf = _0x2d3f72.integral ?? '-';
+    const _0xb6f9b5 = _0x1d14b7.evmWallet ?? undefined;
+    this.twisters.put(_0x1b0515, {
+      'text': "\n================== Account " + (_0x1182a1 + 0x1) + " ==================\nAddress       : - " + _0x46406d + " (MANGO) " + (_0xb6f9b5 ? "\n               - " + _0x1d14b7.evmAddress + " (EVM)" : '') + "\n\nBalance       : \nMANGO NETWORK : " + _0x395a12.map(_0x2cb85e => {
+        return "\n- " + _0x2cb85e.totalBalance + " " + _0x2cb85e.coinType.split('::').pop();
+      }) + "\nSEPOLIA NETWORK : " + _0xab6f1f.map(_0x1b95b4 => {
+        return "\n- " + _0x1b95b4.BALANCE + " " + _0x1b95b4.SYMBOL;
+      }) + "\nTBNB NETWORK    : " + _0x13074a.map(_0x68f773 => {
+        return "\n- " + _0x68f773.BALANCE + " " + _0x68f773.SYMBOL;
+      }) + "\n\nScore        : " + _0x1ee7bf + "\n               \nStatus : " + _0x55a7ef + "\nDelay  : " + _0x2512c7 + "\n=============================================="
+    });
+  }
+  ['info'](_0x3eef40 = '') {
+    this.twisters.put('2', {
+      'text': "\n==============================================\nInfo : " + _0x3eef40 + "\n=============================================="
+    });
+    return;
+  }
+  ["clearInfo"]() {
+    this.twisters.remove('2');
+  }
+  ["clear"](_0x2d4807) {
+    this.twisters.remove(_0x2d4807);
+  }
+}
+export default new Twist();
