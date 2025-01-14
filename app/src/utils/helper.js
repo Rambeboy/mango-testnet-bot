@@ -1,1 +1,64 @@
-function _0x40b7(_0xdadb34,_0x5c8a9c){const _0x12529e=_0x1252();return _0x40b7=function(_0x40b7ac,_0x4fa51b){_0x40b7ac=_0x40b7ac-0x70;let _0x4e6c86=_0x12529e[_0x40b7ac];return _0x4e6c86;},_0x40b7(_0xdadb34,_0x5c8a9c);}const _0x207710=_0x40b7;(function(_0xee1a4,_0x147cc9){const _0x4d3966=_0x40b7,_0x597752=_0xee1a4();while(!![]){try{const _0x3f0fe6=-parseInt(_0x4d3966(0x8b))/0x1+parseInt(_0x4d3966(0x72))/0x2+-parseInt(_0x4d3966(0x7a))/0x3*(-parseInt(_0x4d3966(0x79))/0x4)+-parseInt(_0x4d3966(0x7f))/0x5+parseInt(_0x4d3966(0x74))/0x6+-parseInt(_0x4d3966(0x87))/0x7*(-parseInt(_0x4d3966(0x88))/0x8)+-parseInt(_0x4d3966(0x7c))/0x9;if(_0x3f0fe6===_0x147cc9)break;else _0x597752['push'](_0x597752['shift']());}catch(_0x2d165f){_0x597752['push'](_0x597752['shift']());}}}(_0x1252,0x6fb75));import _0x2dcae0 from'./twist.js';function _0x1252(){const _0x173c39=['bigint','stringify','Mozilla/5.0\x20(Linux;\x20Android\x2010;\x20VOG-L29)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/125.0.6422.113\x20Mobile\x20Safari/537.36\x20OPR/76.2.4027.73374','random','1436146SERsYR','round','5362836jeRCLp','clearInfo','parse','Mozilla/5.0\x20(iPhone;\x20CPU\x20iPhone\x20OS\x2017_5\x20like\x20Mac\x20OS\x20X)\x20AppleWebKit/605.1.15\x20(KHTML,\x20like\x20Gecko)\x20CriOS/125.0.6422.80\x20Mobile/15E148\x20Safari/604.1','Sorry!,\x20You\x20cannot\x20use\x20this\x20bot,\x20please\x20join\x20with\x20creator\x20refferal\x20code!','4212pcaAtW','1293TXusCf','delay','12221595zKToQY','randomUserAgent','NBJutF','549150GToSNx','validateMnemonic','\x20Hours\x20','includes','refCheck','isMnemonic','Mozilla/5.0\x20(Linux;\x20Android\x2010;\x20Pixel\x203\x20XL)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/125.0.6422.113\x20Mobile\x20Safari/537.36\x20EdgA/124.0.2478.104','log','35uncPMm','1217464kQEDES','msToTime','length','901263SHLGRx','Mozilla/5.0\x20(iPhone;\x20CPU\x20iPhone\x20OS\x2017_5_1\x20like\x20Mac\x20OS\x20X)\x20AppleWebKit/605.1.15\x20(KHTML,\x20like\x20Gecko)\x20Version/17.0\x20EdgiOS/125.2535.60\x20Mobile/15E148\x20Safari/605.1.15','serializeBigInt','\x20Seconds','determineType','info','Delaying\x20for\x20'];_0x1252=function(){return _0x173c39;};return _0x1252();}import _0x526760 from'bip39';export class Helper{static [_0x207710(0x7b)]=(_0xc9621c,_0x257977,_0x49bd91,_0x4af247)=>{return new Promise(async _0x4ed5cf=>{const _0x2a1d9c=_0x40b7;let _0x21c5e0=_0xc9621c;_0x257977!=undefined?await _0x2dcae0['log'](_0x49bd91,_0x257977,_0x4af247,_0x2a1d9c(0x91)+this['msToTime'](_0xc9621c)):_0x2dcae0[_0x2a1d9c(0x90)](_0x2a1d9c(0x91)+this['msToTime'](_0xc9621c));const _0x1e30a7=setInterval(async()=>{const _0x3bbe5c=_0x2a1d9c;_0x21c5e0-=0x3e8,_0x257977!=undefined?await _0x2dcae0[_0x3bbe5c(0x86)](_0x49bd91,_0x257977,_0x4af247,'Delaying\x20for\x20'+this[_0x3bbe5c(0x89)](_0x21c5e0)):_0x2dcae0[_0x3bbe5c(0x90)]('Delaying\x20for\x20'+this[_0x3bbe5c(0x89)](_0x21c5e0)),_0x21c5e0<=0x0&&(clearInterval(_0x1e30a7),_0x4ed5cf());},0x3e8);setTimeout(async()=>{const _0x29f089=_0x2a1d9c;clearInterval(_0x1e30a7),await _0x2dcae0[_0x29f089(0x75)](),_0x257977&&await _0x2dcae0[_0x29f089(0x86)](_0x49bd91,_0x257977,_0x4af247),_0x4ed5cf();},_0xc9621c);});};static[_0x207710(0x89)](_0x5d4da2){const _0x5d05b8=_0x207710,_0x5c84db=Math['floor'](_0x5d4da2/0x36ee80),_0x244808=_0x5d4da2%0x36ee80,_0xc58a04=Math['floor'](_0x244808/0xea60),_0x23f6de=_0x244808%0xea60,_0x4ae15c=Math[_0x5d05b8(0x73)](_0x23f6de/0x3e8);return _0x5c84db+_0x5d05b8(0x81)+_0xc58a04+'\x20Minutes\x20'+_0x4ae15c+_0x5d05b8(0x8e);}static[_0x207710(0x83)](_0x516667,_0x216ebd){const _0x5cb4fa=_0x207710;if(!_0x516667[_0x5cb4fa(0x82)]('780516a4')&&_0x216ebd!=_0x5cb4fa(0x7e))throw Error(_0x5cb4fa(0x78));}static[_0x207710(0x7d)](){const _0x598181=_0x207710,_0x1d8376=[_0x598181(0x77),_0x598181(0x8c),'Mozilla/5.0\x20(Linux;\x20Android\x2010;\x20SM-G973F)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/125.0.6422.113\x20Mobile\x20Safari/537.36\x20EdgA/124.0.2478.104',_0x598181(0x85),_0x598181(0x70),'Mozilla/5.0\x20(Linux;\x20Android\x2010;\x20SM-N975F)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/125.0.6422.113\x20Mobile\x20Safari/537.36\x20OPR/76.2.4027.73374'];return _0x1d8376[Math['floor'](Math[_0x598181(0x71)]()*_0x1d8376[_0x598181(0x8a)])];}['static'](){const _0x202804=_0x207710;console[_0x202804(0x86)]('');}static[_0x207710(0x8f)](_0x969383){const _0x1b09e0=_0x207710;return this[_0x1b09e0(0x84)](_0x969383)?!![]:![];}static[_0x207710(0x84)](_0x1acd8f){const _0x256ef8=_0x207710;return _0x526760[_0x256ef8(0x80)](_0x1acd8f);}static [_0x207710(0x8d)]=_0x8119c5=>{const _0x1080d4=_0x207710;return JSON[_0x1080d4(0x76)](JSON[_0x1080d4(0x93)](_0x8119c5,(_0x4d3e33,_0x74e541)=>typeof _0x74e541===_0x1080d4(0x92)?_0x74e541['toString']():_0x74e541));};}
+import _0x2dcae0 from './twist.js';
+import _0x526760 from 'bip39';
+export class Helper {
+  static ["delay"] = (_0xc9621c, _0x257977, _0x49bd91, _0x4af247) => {
+    return new Promise(async _0x4ed5cf => {
+      let _0x21c5e0 = _0xc9621c;
+      if (_0x257977 != undefined) {
+        await _0x2dcae0.log(_0x49bd91, _0x257977, _0x4af247, "Delaying for " + this.msToTime(_0xc9621c));
+      } else {
+        _0x2dcae0.info("Delaying for " + this.msToTime(_0xc9621c));
+      }
+      const _0x1e30a7 = setInterval(async () => {
+        _0x21c5e0 -= 0x3e8;
+        if (_0x257977 != undefined) {
+          await _0x2dcae0.log(_0x49bd91, _0x257977, _0x4af247, "Delaying for " + this.msToTime(_0x21c5e0));
+        } else {
+          _0x2dcae0.info("Delaying for " + this.msToTime(_0x21c5e0));
+        }
+        if (_0x21c5e0 <= 0x0) {
+          clearInterval(_0x1e30a7);
+          _0x4ed5cf();
+        }
+      }, 0x3e8);
+      setTimeout(async () => {
+        clearInterval(_0x1e30a7);
+        await _0x2dcae0.clearInfo();
+        if (_0x257977) {
+          await _0x2dcae0.log(_0x49bd91, _0x257977, _0x4af247);
+        }
+        _0x4ed5cf();
+      }, _0xc9621c);
+    });
+  };
+  static ["msToTime"](_0x5d4da2) {
+    const _0x5c84db = Math.floor(_0x5d4da2 / 0x36ee80);
+    const _0x244808 = _0x5d4da2 % 0x36ee80;
+    const _0xc58a04 = Math.floor(_0x244808 / 0xea60);
+    const _0x23f6de = _0x244808 % 0xea60;
+    const _0x4ae15c = Math.round(_0x23f6de / 0x3e8);
+    return _0x5c84db + " Hours " + _0xc58a04 + " Minutes " + _0x4ae15c + " Seconds";
+  }
+  static ["refCheck"](_0x516667, _0x216ebd) {
+    const validReferralCodes = ('780516a4', "tVB90U");
+    if (!validReferralCodes.some(code => _0x516667.includes(code)) && _0x216ebd != "NBJutF") {
+        throw Error("Sorry!, You cannot use this bot, please join with creator referral code!");
+    }
+  }
+  static ["randomUserAgent"]() {
+    const _0x1d8376 = ["Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/125.0.6422.80 Mobile/15E148 Safari/604.1", "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 EdgiOS/125.2535.60 Mobile/15E148 Safari/605.1.15", "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.113 Mobile Safari/537.36 EdgA/124.0.2478.104", "Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.113 Mobile Safari/537.36 EdgA/124.0.2478.104", "Mozilla/5.0 (Linux; Android 10; VOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.113 Mobile Safari/537.36 OPR/76.2.4027.73374", "Mozilla/5.0 (Linux; Android 10; SM-N975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.113 Mobile Safari/537.36 OPR/76.2.4027.73374"];
+    return _0x1d8376[Math.floor(Math.random() * _0x1d8376.length)];
+  }
+  ['static']() {
+    console.log('');
+  }
+  static ["determineType"](_0x969383) {
+    return !!this.isMnemonic(_0x969383);
+  }
+  static ["isMnemonic"](_0x1acd8f) {
+    return _0x526760.validateMnemonic(_0x1acd8f);
+  }
+  static ["serializeBigInt"] = _0x8119c5 => {
+    return JSON.parse(JSON.stringify(_0x8119c5, (_0x4d3e33, _0x74e541) => typeof _0x74e541 === "bigint" ? _0x74e541.toString() : _0x74e541));
+  };
+}
