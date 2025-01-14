@@ -28,7 +28,7 @@ class Twist {
         return "\n- " + _0x1aff1f.BALANCE + " " + _0x1aff1f.SYMBOL;
       }) + "\nTBNB NETWORK    : " + _0x5e6226.map(_0xbd6033 => {
         return "\n- " + _0xbd6033.BALANCE + " " + _0xbd6033.SYMBOL;
-      }) + "\n\nScore        : " + _0x2ef516 + "\n               \nStatus : " + _0xe92071 + "\nDelay  : " + _0x58e373 + "\n=============================================="
+      }) + "\n\nScore           : " + _0x2ef516 + "\n               \nStatus : " + _0xe92071 + "\nDelay  : " + _0x58e373 + "\n=============================================="
     });
   }
   ["info"](_0x129e6e = '') {
