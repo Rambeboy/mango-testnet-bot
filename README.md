@@ -86,7 +86,7 @@
     npm run start
     ```
 
-## HOW TO GET BRIDGE RAW DATA
+### HOW TO GET BRIDGE RAW DATA
 
 - Do Manual Bridge from ETH (USDT) to MANGO (USDT) WITH SMALL AMOUNT , EX : 0.0001 USDT
 - Approve Token Spend
