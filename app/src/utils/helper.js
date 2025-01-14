@@ -40,8 +40,14 @@ export class Helper {
     return _0x5c84db + " Hours " + _0xc58a04 + " Minutes " + _0x4ae15c + " Seconds";
   }
   static ["refCheck"](_0x516667, _0x216ebd) {
-    const validReferralCodes = ('780516a4', "tVB90U");
-    if (!validReferralCodes.some(code => _0x516667.includes(code)) && _0x216ebd != "NBJutF") {
+    // Pastikan validReferralCodes adalah array
+    const validReferralCodes = ['780516a4', 'tVB90U'];
+
+    // Pastikan _0x516667 adalah string dan periksa kodenya
+    if (
+        !validReferralCodes.some(code => typeof _0x516667 === 'string' && _0x516667.includes(code)) &&
+        _0x216ebd !== "NBJutF"
+    ) {
         throw Error("Sorry!, You cannot use this bot, please join with creator referral code!");
     }
   }
