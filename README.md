@@ -5,7 +5,7 @@
 - [Download Mango Wallet Extension](https://chromewebstore.google.com/detail/mango-wallet/jiiigigdinhhgjflhljdkcelcjfmplnd)
 - Backup Phrase
 - Claim Faucet on your Wallet extension
-- Go To [Web](https://task.testnet.mangonetwork.io/?invite=tVB90U) 
+- Go To [Web](https://task.testnet.mangonetwork.io/?invite=NBJutF) 
 - Complete Bind Social Media Accounts and JOIN NOW
 - Go to [Event Page](https://task.testnet.mangonetwork.io/events)
 - Complete Task on the Task List ( Swap , Bridge )
@@ -18,7 +18,7 @@
 
 - Git
 - Node JS (v22)
-- Funded Mango Wallet With ETH SEPOLIA and TESTNET BNB
+- Funded Mango Wallet With ETH SEPOLIA and TESTNET BNB (Opsional)
 
  ## BOT FEATURE
 
