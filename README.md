@@ -18,7 +18,7 @@
 
 - Git
 - Node JS (v22)
-- Funded Mango Wallet With ETH SEPOLIA and TESTNET BNB (Opsional)
+- Funded Mango Wallet With ETH SEPOLIA and TESTNET BNB **(Opsional)**
 
  ## BOT FEATURE
 
