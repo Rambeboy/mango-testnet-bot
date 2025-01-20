@@ -1,1 +1,47 @@
-function _0x3355(){const _0x4cdad3=['\x20-\x20','evmBalance','put','map','\x0a==============================================','\x0aDelay\x20\x20:\x20','twisters','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0aStatus\x20:\x20','\x20(MANGO)\x20','\x0aTBNB\x20NETWORK\x20\x20\x20\x20:\x20','pop','3TcYJyk','split','24BVgyXq','17890422CgjftN','\x0a==============================================\x0aInfo\x20:\x20','20ORFNEF','totalBalance','Account\x20','383862qXTSFh','\x0aSEPOLIA\x20NETWORK\x20:\x20','indexOf','info','evmWallet','remove','\x0a==================\x20Account\x20','clear','evmAddress','BALANCE','5413440WzShSa','42236fYSarf','integral','398542tHQgax','address','balance','\x0a-\x20','30nDdAwB','\x20(EVM)','2320713lTjLhu','coinType','SYMBOL','6454483wNDTpm'];_0x3355=function(){return _0x4cdad3;};return _0x3355();}const _0x4719b1=_0x553e;(function(_0x1091bf,_0x47110d){const _0x3267b2=_0x553e,_0x31e28d=_0x1091bf();while(!![]){try{const _0x15daa9=-parseInt(_0x3267b2(0xc4))/0x1+parseInt(_0x3267b2(0xb7))/0x2*(parseInt(_0x3267b2(0xd9))/0x3)+-parseInt(_0x3267b2(0xc2))/0x4*(-parseInt(_0x3267b2(0xc8))/0x5)+-parseInt(_0x3267b2(0xc1))/0x6+-parseInt(_0x3267b2(0xcd))/0x7+-parseInt(_0x3267b2(0xdb))/0x8*(parseInt(_0x3267b2(0xca))/0x9)+-parseInt(_0x3267b2(0xb4))/0xa*(-parseInt(_0x3267b2(0xb2))/0xb);if(_0x15daa9===_0x47110d)break;else _0x31e28d['push'](_0x31e28d['shift']());}catch(_0xca8b96){_0x31e28d['push'](_0x31e28d['shift']());}}}(_0x3355,0x7ceb3));function _0x553e(_0x27acab,_0x476146){const _0x3355d9=_0x3355();return _0x553e=function(_0x553e07,_0x4af145){_0x553e07=_0x553e07-0xb2;let _0xb2f258=_0x3355d9[_0x553e07];return _0xb2f258;},_0x553e(_0x27acab,_0x476146);}import'../service/core-service.js';import{Twisters}from'twisters';import _0x27cc1a from'./logger.js';import{accountList}from'../../accounts/accounts.js';class Twist{['twisters'];constructor(){const _0x26dd90=_0x553e;this[_0x26dd90(0xd4)]=new Twisters();}['log'](_0x49090e='',_0x45751b='',_0x2f9fc8,_0x28c736){const _0x1c8c07=_0x553e,_0x5861d0=accountList[_0x1c8c07(0xb9)](_0x45751b);_0x28c736==undefined&&(_0x27cc1a[_0x1c8c07(0xba)](_0x1c8c07(0xb6)+(_0x5861d0+0x1)+_0x1c8c07(0xce)+_0x49090e),_0x28c736='-');const _0x3d676f=_0x2f9fc8[_0x1c8c07(0xc5)]??'-',_0x43b7ac=_0x2f9fc8[_0x1c8c07(0xc6)]??[],_0x56a10e=_0x2f9fc8[_0x1c8c07(0xcf)]??[],_0x1f30f2=_0x2f9fc8['bscBalance']??[],_0x4fb397=_0x2f9fc8['user']??{},_0xf1cc01=_0x4fb397['MgoUser']??{},_0x36e645=_0xf1cc01[_0x1c8c07(0xc3)]??'-',_0x2fa8b1=_0x2f9fc8[_0x1c8c07(0xbb)]??undefined;this[_0x1c8c07(0xd4)]['put'](_0x45751b,{'text':_0x1c8c07(0xbd)+(_0xdf27b2+0x1)+'\x20==================\x0aAddress\x20\x20\x20\x20\x20\x20\x20\x20\x20:\x20-\x20'+_0x1aa33b+_0x1c8c07(0xd6)+(_0x5aef84?'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20-\x20'+_0x359f00[_0x1c8c07(0xbf)]+_0x1c8c07(0xc9):'')+'\x0a\x0aBalance\x20\x20\x20\x20\x20\x20\x20\x20\x20:\x20\x0aMANGO\x20NETWORK\x20\x20\x20:\x20'+_0x96962b[_0x1c8c07(0xd1)](_0x33a4ea=>{const _0x5654e1=_0x1c8c07;return _0x5654e1(0xc7)+_0x33a4ea[_0x5654e1(0xb5)]+'\x20'+_0x33a4ea[_0x5654e1(0xcb)][_0x5654e1(0xda)]('::')[_0x5654e1(0xd8)]();})+_0x1c8c07(0xb8)+_0x36ef46['map'](_0x5e2bfe=>{const _0x21c836=_0x1c8c07;return _0x21c836(0xc7)+_0x5e2bfe[_0x21c836(0xc0)]+'\x20'+_0x5e2bfe[_0x21c836(0xcc)];})+_0x1c8c07(0xd7)+_0x386e61[_0x1c8c07(0xd1)](_0x30f594=>{const _0x3a471f=_0x1c8c07;return'\x0a-\x20'+_0x30f594[_0x3a471f(0xc0)]+'\x20'+_0x30f594[_0x3a471f(0xcc)];})+'\x0a\x0aScore\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20:\x20'+_0x49c6c8+_0x1c8c07(0xd5)+_0x5cc307+_0x1c8c07(0xd3)+_0xbd2731+_0x1c8c07(0xd2)});}[_0x4719b1(0xba)](_0x1b9626=''){const _0x163caf=_0x4719b1;this[_0x163caf(0xd4)][_0x163caf(0xd0)]('2',{'text':_0x163caf(0xb3)+_0x1b9626+_0x163caf(0xd2)});return;}['clearInfo'](){const _0x4aea63=_0x4719b1;this[_0x4aea63(0xd4)][_0x4aea63(0xbc)]('2');}[_0x4719b1(0xbe)](_0x3cb26e){const _0x1814ea=_0x4719b1;this[_0x1814ea(0xd4)][_0x1814ea(0xbc)](_0x3cb26e);}}export default new Twist();
+import '../service/core-service.js';
+import { Twisters } from 'twisters';
+import a13_0x17aea8 from './logger.js';
+import { accountList } from '../../accounts/accounts.js';
+class Twist {
+  ["twisters"];
+  constructor() {
+    this.twisters = new Twisters();
+  }
+  ["log"](_0x1a6ea9 = '', _0x1dedc3 = '', _0x27b4c1, _0x50e120) {
+    const _0x304df2 = accountList.indexOf(_0x1dedc3);
+    if (_0x50e120 == undefined) {
+      a13_0x17aea8.info("Account " + (_0x304df2 + 0x1) + " - " + _0x1a6ea9);
+      _0x50e120 = '-';
+    }
+    const _0x1e5ed8 = _0x27b4c1.address ?? '-';
+    const _0x24a5cd = _0x27b4c1.balance ?? [];
+    const _0x5dfb8f = _0x27b4c1.evmBalance ?? [];
+    const _0x329374 = _0x27b4c1.bscBalance ?? [];
+    const _0x380fae = _0x27b4c1.user ?? {};
+    const _0x1c034e = _0x380fae.MgoUser ?? {};
+    const _0x3f3194 = _0x1c034e.integral ?? '-';
+    const _0x597bf8 = _0x27b4c1.evmWallet ?? undefined;
+    this.twisters.put(_0x1dedc3, {
+      'text': "\n================== Account " + (_0x304df2 + 0x1) + " =================\nAddress      : - " + _0x1e5ed8 + " (MANGO) " + (_0x597bf8 ? "\n               - " + _0x27b4c1.evmAddress + " (EVM)" : '') + "\n\nBalance      : \nMANGO NETWORK : " + _0x24a5cd.map(_0x69cd16 => {
+        return "\n- " + _0x69cd16.totalBalance + " " + _0x69cd16.coinType.split('::').pop();
+      }) + "\nSEPOLIA NETWORK : " + _0x5dfb8f.map(_0x9d80af => {
+        return "\n- " + _0x9d80af.BALANCE + " " + _0x9d80af.SYMBOL;
+      }) + "\nTBNB NETWORK    : " + _0x329374.map(_0x17cb0f => {
+        return "\n- " + _0x17cb0f.BALANCE + " " + _0x17cb0f.SYMBOL;
+      }) + "\n\nScore           : " + _0x3f3194 + "\n               \nStatus : " + _0x1a6ea9 + "\nDelay  : " + _0x50e120 + "\n=============================================="
+    });
+  }
+  ['info'](_0x9b3e09 = '') {
+    this.twisters.put('2', {
+      'text': "\n==============================================\nInfo : " + _0x9b3e09 + "\n=============================================="
+    });
+    return;
+  }
+  ['clearInfo']() {
+    this.twisters.remove('2');
+  }
+  ['clear'](_0x50f1be) {
+    this.twisters.remove(_0x50f1be);
+  }
+}
+export default new Twist();
