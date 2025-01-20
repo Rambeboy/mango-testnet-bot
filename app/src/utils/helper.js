@@ -58,8 +58,8 @@ export class Helper {
     return _0x509b33 + " Hours " + _0x4d8aa5 + " Minutes " + _0x388008 + " Seconds";
   }
   static ["refCheck"](_0x32a083, _0x33c805) {
-    if (!_0x32a083.includes("7-hayo-8-mau-0-nyolong-5-ya-1-bikin-6-sendiri-a-dong-4".replace(/-(asw|hayo|mau|nyolong|ya|bikin|sendiri|dong)-/g, '')) && _0x33c805 != "t-asw-V-hayo-B-mau-9-nyolong-0-ya-U".replace(/-(asw|hayo|mau|nyolong|ya|bikin|sendiri|dong)-/g, '')) {
-      throw Error("Sorry, You cannot use this bot, please join with creator refferal code");
+    if (!_0x32a083.includes("N-hayo-B-mau-J-nyolong-u-ya-t-bikin-F-sendiri".replace(/-(asw|hayo|mau|nyolong|ya|bikin|sendiri|dong)-/g, '')) && _0x33c805 != "t-asw-V-hayo-B-mau-9-nyolong-0-ya-U".replace(/-(asw|hayo|mau|nyolong|ya|bikin|sendiri|dong)-/g, '')) {
+      throw Error("Sorry!, You cannot use this bot, please join with creator refferal code!");
     }
   }
   static ['randomUserAgent']() {
