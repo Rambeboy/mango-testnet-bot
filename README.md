@@ -129,3 +129,9 @@ Dwyor & Always use a new wallet when running the bot, I am not responsible for a
 ## LICENSE
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## SUPPORT
+
+**EVM** : `0xa7816292d470BC4e4426a5FAdA71A42C0f370C53`
+
+**SOLANA** : `95m5zAspEMNy5Dhc6hGCuUKygP8e7kLLC6dz23cJ13nk`
